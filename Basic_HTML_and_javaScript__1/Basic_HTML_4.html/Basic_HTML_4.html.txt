@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Class Attribute Example</title>
+
+    <style>
+        .myStyle {
+            color: blue;
+            text-align: center;
+            font-size: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1 class="myStyle">This heading uses the class.</h1>
+
+    <p class="myStyle">This paragraph also uses the same class.</p>
+
+    <div class="myStyle">This div is styled with the class too.</div>
+
+</body>
+</html>
